@@ -10,6 +10,13 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I'm 6 Feet tall.
+<br></br>
+# Connect me via:
+<p align="left">
+  <a href="https://www.linkedin.com/in/harikishan-tk-06abb4199/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="60" width="60" /></a> &nbsp;&nbsp;
+  <a href="https://www.instagram.com/xxiamsaiyanxx/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="60" width="60" /></a> &nbsp;&nbsp;
+  <a href="https://twitter.com/harikishan_tk" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="60" width="60" /></a> &nbsp;&nbsp;
+</p>
 
 
 
@@ -20,7 +27,12 @@ Here are some ideas to get you started:
 
 # My Recent Blogs:
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@harikishantk/0" alt="Recent Article 0"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@harikishantk/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@harikishantk/0" alt="Recent Article 0">
 
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@harikishantk/1" alt="Recent Article 0"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@harikishantk/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@harikishantk/1" alt="Recent Article 1"> 
+  
+<p align="center">
+ <a href="https://harikishantk.medium.com/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="medium" height="60" width="60" /></a> &nbsp;&nbsp;
+</p>
+  
