@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... [GirlScript Summer of Code](https://gssoc.girlscript.tech/projects.html) Projects
+- 🔭 I’m currently working on ... [GirlScript Summer of Code](https://gssoc.girlscript.tech/projects.html) Projects and chilling on MLH:Share Edition 2021
 - 🌱 I’m currently learning ... backend frameworks
 - 👯 I’m looking to collaborate on ... Websites
 - 🤔 I’m looking for help with ... Competitive Programming
