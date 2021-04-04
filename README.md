@@ -3,11 +3,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... [SWOC](http://swoc.tech/) Projects
-- 🌱 I’m currently learning ... Flutter
+- 🔭 I’m currently working on ... [GirlScript Summer of Code](https://gssoc.girlscript.tech/projects.html) Projects
+- 🌱 I’m currently learning ... backend frameworks
 - 👯 I’m looking to collaborate on ... Websites
-- 🤔 I’m looking for help with ... Flutter
-- 💬 Ask me about ... Anything
+- 🤔 I’m looking for help with ... Competitive Programming
+- 💬 Ask me about ... Anything (Especially Anime)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I'm 6 Feet tall.
 <br></br>
